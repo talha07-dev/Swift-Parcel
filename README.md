@@ -12,7 +12,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 
 ## ✨ Key Features
 
-👤 boldCustomer Modulebold
+👤 Customer Module
 
 - Parcel booking and shipment creation
 - Real-time parcel tracking
@@ -21,7 +21,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Customer dashboard
 - Messaging system for support
 
-🛠️ boldAdmin Modulebold
+🛠️ Admin Module
 
 - Admin dashboard with overview analytics
 - Customer and parcel management
@@ -30,13 +30,14 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Status updates and monitoring
 - Query and complaint handling
 
-🚚 boldDelivery Personnel Modulebold
+🚚 Delivery Personnel Module
 
 - Assigned parcel list view
 - Delivery status updates
 - Delivery confirmation system
 - Shipment details access
 - Communication with admin
+
 ## ⚙️ System Features
 - 🔐 Secure authentication & authorization (JWT-based)
 - 🧑‍🤝‍🧑 Role-based access control
@@ -49,22 +50,22 @@ The system improves delivery efficiency by centralizing parcel operations and en
 
 ## 🛠️ Tech Stack
 
-boldfrontendbold
+frontend
 - React.js
 - HTML5
 - CSS3
 
-boldBackendbold
+Backend
  
- - Node.js
- -Express.js
+- Node.js
+- Express.js
 
-boldDatabasebold
+Database
 
 - MongoDB
 - Mongoose
 
-boldOthersbold
+Others
 
 - JWT Authentication
 - REST APIs
