@@ -13,6 +13,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 ## ✨ Key Features
 
 👤 Customer Module
+
 - Parcel booking and shipment creation
 - Real-time parcel tracking
 - Delivery status updates
@@ -21,6 +22,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Messaging system for support
 
 🛠️ Admin Module
+
 - Admin dashboard with overview analytics
 - Customer and parcel management
 - Delivery personnel management
@@ -29,6 +31,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Query and complaint handling
 
 🚚 Delivery Personnel Module
+
 - Assigned parcel list view
 - Delivery status updates
 - Delivery confirmation system
