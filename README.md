@@ -12,7 +12,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 
 ## ✨ Key Features
 
-👤 Customer Module
+👤 boldCustomer Modulebold
 
 - Parcel booking and shipment creation
 - Real-time parcel tracking
@@ -21,7 +21,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Customer dashboard
 - Messaging system for support
 
-🛠️ Admin Module
+🛠️ boldAdmin Modulebold
 
 - Admin dashboard with overview analytics
 - Customer and parcel management
@@ -30,7 +30,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Status updates and monitoring
 - Query and complaint handling
 
-🚚 Delivery Personnel Module
+🚚 boldDelivery Personnel Modulebold
 
 - Assigned parcel list view
 - Delivery status updates
@@ -49,11 +49,26 @@ The system improves delivery efficiency by centralizing parcel operations and en
 
 ## 🛠️ Tech Stack
 
-|Frontend| |Backend| |Database|	|Others|
-|--------| |-------| |--------| |------|
-|React.js| |Node.js| |MongoDB|  |JWT Authentication|
-|HTML5|	   |Express.js|	|Mongoose|	|REST APIs|
-|CSS3|			|JavaScript|
+boldfrontendbold
+- React.js
+- HTML5
+- CSS3
+
+boldBackendbold
+ 
+ - Node.js
+ -Express.js
+
+boldDatabasebold
+
+- MongoDB
+- Mongoose
+
+boldOthersbold
+
+- JWT Authentication
+- REST APIs
+- JavaScript
 
 ## 🚀 How It Works
 1. Customer registers and books a parcel
