@@ -47,10 +47,10 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - 📱 Fully responsive UI design
 - ⚡ Optimized RESTful APIs
 ## 🛠️ Tech Stack
-Frontend	Backend	Database	Others
-React.js	Node.js	MongoDB	JWT Authentication
-HTML5	Express.js	Mongoose	REST APIs
-CSS3			JavaScript
+|Frontend|	|Backend|	|Database|	|Others|
+|React.js|	|Node.js|	|MongoDB|	|JWT Authentication|
+|HTML5|	|Express.js|	|Mongoose|	|REST APIs|
+|CSS3|			|JavaScript|
 ## 🚀 How It Works
 1. Customer registers and books a parcel
 2. Admin assigns parcel to delivery personnel
