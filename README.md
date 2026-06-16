@@ -11,6 +11,7 @@ It provides dedicated portals for customers, administrators, and delivery person
 The system improves delivery efficiency by centralizing parcel operations and enabling structured communication between all stakeholders.
 
 ## ✨ Key Features
+
 👤 Customer Module
 - Parcel booking and shipment creation
 - Real-time parcel tracking
@@ -18,6 +19,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Parcel history management
 - Customer dashboard
 - Messaging system for support
+
 🛠️ Admin Module
 - Admin dashboard with overview analytics
 - Customer and parcel management
@@ -25,6 +27,7 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Parcel assignment system
 - Status updates and monitoring
 - Query and complaint handling
+
 🚚 Delivery Personnel Module
 - Assigned parcel list view
 - Delivery status updates
@@ -32,14 +35,14 @@ The system improves delivery efficiency by centralizing parcel operations and en
 - Shipment details access
 - Communication with admin
 ## ⚙️ System Features
-🔐 Secure authentication & authorization (JWT-based)
-🧑‍🤝‍🧑 Role-based access control
-📦 Real-time parcel tracking system
-📊 Responsive dashboards for all roles
-💬 Customer–admin messaging system
-🔔 Status updates and notifications
-📱 Fully responsive UI design
-⚡ Optimized RESTful APIs
+- 🔐 Secure authentication & authorization (JWT-based)
+- 🧑‍🤝‍🧑 Role-based access control
+- 📦 Real-time parcel tracking system
+- 📊 Responsive dashboards for all roles
+- 💬 Customer–admin messaging system
+- 🔔 Status updates and notifications
+- 📱 Fully responsive UI design
+- ⚡ Optimized RESTful APIs
 ## 🛠️ Tech Stack
 Frontend	Backend	Database	Others
 React.js	Node.js	MongoDB	JWT Authentication
@@ -53,4 +56,3 @@ CSS3			JavaScript
 5. System maintains full delivery lifecycle history
 ## 🎯 Project Goal
 To create a centralized parcel delivery system that improves logistics efficiency, enhances tracking transparency, and simplifies communication between customers, admins, and delivery personnel.
-
